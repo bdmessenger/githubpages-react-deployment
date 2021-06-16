@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/githubpages-react-deployment/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/githubpages-react-deployment/static/js/main.21717301.chunk.js",
+    "main.js.map": "/githubpages-react-deployment/static/js/main.21717301.chunk.js.map",
+    "runtime-main.js": "/githubpages-react-deployment/static/js/runtime-main.242f80c9.js",
+    "runtime-main.js.map": "/githubpages-react-deployment/static/js/runtime-main.242f80c9.js.map",
+    "static/js/2.3dacc5e3.chunk.js": "/githubpages-react-deployment/static/js/2.3dacc5e3.chunk.js",
+    "static/js/2.3dacc5e3.chunk.js.map": "/githubpages-react-deployment/static/js/2.3dacc5e3.chunk.js.map",
+    "static/js/3.3d43a08c.chunk.js": "/githubpages-react-deployment/static/js/3.3d43a08c.chunk.js",
+    "static/js/3.3d43a08c.chunk.js.map": "/githubpages-react-deployment/static/js/3.3d43a08c.chunk.js.map",
+    "index.html": "/githubpages-react-deployment/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/githubpages-react-deployment/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3dacc5e3.chunk.js.LICENSE.txt": "/githubpages-react-deployment/static/js/2.3dacc5e3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/githubpages-react-deployment/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.242f80c9.js",
+    "static/js/2.3dacc5e3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.21717301.chunk.js"
+  ]
+}
